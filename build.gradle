@@ -1,0 +1,11 @@
+apply plugin: 'java'
+
+//Get dependencies from Maven central repository
+repositories {
+    mavenCentral()
+}
+
+//Project dependencies
+dependencies {
+    //compile 'ch.qos.logback:logback-classic:1.1.2'
+}
